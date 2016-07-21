@@ -1,3 +1,4 @@
+# usage: split_file_by_keyword.sh target_file keyword
 #!/bin/bash
 
 split_file() {
